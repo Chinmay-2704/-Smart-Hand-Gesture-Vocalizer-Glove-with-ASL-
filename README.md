@@ -17,7 +17,7 @@ This project leverages **flex sensors, MPU6050 motion sensor, and touch sensors*
 - **Compact & Affordable Design**  
   - Custom PCB for efficient wiring and durability.  
   - Lightweight **3D-printed enclosure** for portability and comfort.  
-  - Built under ₹2000 (~$25), making it cost-effective compared to commercial alternatives.  
+  - Built under ₹3000, making it cost-effective compared to commercial alternatives.  
 
 ---
 
