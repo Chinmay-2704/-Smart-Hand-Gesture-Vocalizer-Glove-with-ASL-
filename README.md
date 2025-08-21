@@ -60,4 +60,3 @@ This project leverages **flex sensors, MPU6050 motion sensor, and touch sensors*
 
 ---
 
-## 📂 Project Structure
